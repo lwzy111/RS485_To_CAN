@@ -1,3 +1,6 @@
 build
 mx.scratch
 !.settings
+!.vscode
+!.MDK-ARM
+
